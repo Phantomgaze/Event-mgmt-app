@@ -9,3 +9,9 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+// next.config.js
+console.log('NODE_ENV:', process.env.NODE_ENV);
+
+module.exports = {
+  // Your existing configuration
+};
