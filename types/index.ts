@@ -1,6 +1,6 @@
 // ====== USER PARAMS
 export type CreateUserParams = {
-  clerkId: string
+  clerId: string
   firstName: string
   lastName: string
   username: string
